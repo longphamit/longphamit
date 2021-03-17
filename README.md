@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning FPT University
 - My work is Java J2EE, React Native, C#.Net, JS
 - 📫 How to reach me: 
-- email: longphamjustdoit@gmail.com
-- phone: +84705799900
+- Email: longphamjustdoit@gmail.com
+- Phone: +84705799900
 
