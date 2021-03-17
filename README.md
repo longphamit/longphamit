@@ -4,5 +4,5 @@
 - 📫 How to reach me: 
 * email: longphamjustdoit@gmail.com
 * phone: +84705799900
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=longphamit&show_icons=true&theme=radical)
+-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=longphamit&show_icons=true&theme=radical)
 
